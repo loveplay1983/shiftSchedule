@@ -1,0 +1,113 @@
+{
+    "staff": [
+        {
+            "name": "Yuan ShuoHui",
+            "job": "Director",
+            "restDay": ""
+        },
+        {
+            "name": "Wang LiTian",
+            "job": "Vice Director",
+            "restDay": ""
+        },
+        {
+            "name": "Luo Fei",
+            "job": "Vice Director",
+            "restDay": ""
+        },
+        {
+            "name": "Lou Fen",
+            "job": "Clerk",
+            "restDay": ""
+        },
+        {
+            "name": "Zhang Jie(Bao)",
+            "job": "Clerk",
+            "restDay": ""
+        },
+        {
+            "name": "Guo XiangBin",
+            "job": "Clerk",
+            "restDay": ""
+        },
+        {
+            "name": "Zhou YiHui",
+            "job": "Clerk",
+            "restDay": ""
+        },
+        {
+            "name": "Wang ZhenBin",
+            "job": "Clerk",
+            "restDay": ""
+        },
+        {
+            "name": "Yuan LeiWu",
+            "job": "Clerk",
+            "restDay": ""
+        },
+        {
+            "name": "Xuan XiongMin",
+            "job": "Clerk",
+            "restDay": ""
+        },
+        {
+            "name": "Shou ChunJie",
+            "job": "Clerk",
+            "restDay": ""
+        },
+        {
+            "name": "ZhangJie(Jie)",
+            "job": "Clerk",
+            "restDay": ""
+        },
+        {
+            "name": "Chen RongShen",
+            "job": "Clerk",
+            "restDay": ""
+        },
+        {
+            "name": "Fu ShuNa",
+            "job": "Clerk",
+            "restDay": ""
+        },
+        {
+            "name": "Zhang JiaDong",
+            "job": "Clerk",
+            "restDay": ""
+        },
+        {
+            "name": "",
+            "job": "Clerk",
+            "restDay": ""
+        },
+        {
+            "name": "",
+            "job": "Clerk",
+            "restDay": ""
+        }
+    ],
+
+    "global":[
+
+    ],
+
+    "officeField":[
+
+    ],
+
+    "weekend": [
+
+    ],
+
+    "vacation":[
+
+    ],
+
+    "jiangDong":[
+
+    ],
+
+    "devDay":[
+        
+    ]
+}
